@@ -1,6 +1,8 @@
 locally:
 git branch -d div
 git branch -D div
+
+remotly
 git push origin --delete div
 
 
