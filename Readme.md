@@ -1,2 +1,2 @@
 content
-![Project image](C:\Users\lion\Desktop\Web\GIT&GITHUB\imge.jpg)
+![Project image](/mnt/c/users/lion/Desktop/web/'GIT&GITHUB'/imge.jpg)
