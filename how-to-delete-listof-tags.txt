@@ -1,0 +1,11 @@
+<locally>
+git tag -d <tag_name>
+
+Delete all local tags:
+git tag -l | xargs git tag -d
+
+<remotly>
+git push --delete origin <tag_name>
+
+Delete all remote tags:
+git push origin --delete $(git tag -l)
