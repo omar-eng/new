@@ -1,0 +1,6 @@
+locally:
+git branch -d div
+git branch -D div
+git push origin --delete div
+
+
